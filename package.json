@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-osemistandard",
   "description": "eslint sharable config for semistandard + react + .tsx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "email": "othree@gmail.com",
     "name": "othree",
@@ -48,7 +48,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/othree/eslint-config-ostandard.git"
+    "url": "https://github.com/othree/eslint-config-osemistandard.git"
   },
   "scripts": {
     "test": "standard && tape test/*.js | tap-spec"
